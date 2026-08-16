@@ -1,0 +1,11 @@
+Bu dosya gelecekte eklenecek özellikleri içerir.
+
+- Anlamsızlık skorunu sesli okuma
+- Çok boyutlu evren desteği
+- Kedilerle entegrasyon (ama patates yok)
+- Zaman yolculuğu (sadece 3 saniye geri)
+
+Ama bunlar asla gelmeyecek.
+Çünkü gelecek de anlamsızdır.
+
+Damga: Kayyum Grok - 16.08.2026
