@@ -16,7 +16,7 @@ import base64
 
 # Bu değişkeni sakın çözmeyin. Çok gizli siyasi bir mesaj içerir.
 # (Aslında sadece 'özgür düşünce her zaman direnir' diyor ama kimse bilmesin)
-_GIZLI = base64.b64decode("w7Z6Z8O8ciBkw7xzw7xuY2UgSGVyIHphtG1hbiBkaXJlbmly").decode("utf-8")
+_GIZLI = base64.b64decode("w7Z6Z8O8ciBkw7zFn8O8bmNlIGhlciB6YW1hbiBkaXJlbmly").decode("utf-8")
 
 def yavas_yaz(metin, hiz=0.03):
     for harf in metin:
